@@ -7,7 +7,7 @@ I’m passionate about the intersection of **speech, language, and technology**,
 My background combines linguistics, programming, and machine learning, with experience in **speech processing (ASR & TTS)** and **NLP**.  
 
 💡 **Skills**  
-- **Programming:** Python, Matlab, Praat  
+- **Programming:** Python, SQL, Praat  
 - **Libraries:** NumPy, Pandas, Librosa, SpaCy, PyTorch  
 - **Areas of interest:** Speech & language processing, cross-lingual understanding, AI for healthcare and accessibility  
 
