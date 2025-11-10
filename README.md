@@ -13,7 +13,7 @@ My background combines linguistics, programming, and machine learning, with expe
 
 🤝 **Let’s connect!**  
 - 📫 Email: *shiran.sara.nl@gmail.com*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sara-sun01/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/shiran-sun/
 
 😄 **Pronouns:** she/her  
 ⚡ **Fun fact:** I enjoy exploring how technology can bridge cultural and linguistic gaps.
